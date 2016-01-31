@@ -1,0 +1,28 @@
+name: green grow group
+favicon: null
+layout_spectrum: 0.576179884141311
+typography_spectrum: 0.5565643049776554
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9818438207730651
+  lightness: 0.35479065170511603
+  saturation: 0.2071572351269424
+  rhythmicContrast: 0.41154678212478757
+purpose: []
